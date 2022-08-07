@@ -1,0 +1,25 @@
+.Login {
+  margin: 0px auto;
+  width: 500px;
+  height: 500px;
+  border: 1px solid gray;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+
+.login-input {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  width: 400px;
+  margin: 50px auto;
+}
+
+.login-btn {
+  margin: 0px auto;
+  width: 100px;
+  height: 50px;
+}
